@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SGn7rMVzNKg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pakrishn\\Downloads\\PCF-EditableTable\\CustomTableGrid\\PCF-EditableTable.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pakrishn\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\pakrishn\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\pakrishn\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.43.6\\microsoft.powerapps.msbuild.pcf.1.43.6.nupkg.sha512"
+  ],
+  "logs": []
+}

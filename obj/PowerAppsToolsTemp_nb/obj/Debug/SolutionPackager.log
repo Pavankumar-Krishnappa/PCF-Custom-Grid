@@ -1,0 +1,20 @@
+2025-06-30 03:18:38.393 - Info	
+Packing C:\Users\pakrishn\Downloads\PCF-EditableTable\CustomTableGrid\obj\PowerAppsToolsTemp_nb\obj\Debug\Metadata to bin\Debug\PowerAppsToolsTemp_nb.zip
+
+2025-06-30 03:18:38.405 - Info	Processing Component: Entities
+2025-06-30 03:18:38.408 - Info	Processing Component: Roles
+2025-06-30 03:18:38.410 - Info	Processing Component: Workflows
+2025-06-30 03:18:38.411 - Info	Processing Component: FieldSecurityProfiles
+2025-06-30 03:18:38.411 - Info	Processing Component: Templates
+2025-06-30 03:18:38.412 - Info	Processing Component: EntityMaps
+2025-06-30 03:18:38.412 - Info	Processing Component: EntityRelationships
+2025-06-30 03:18:38.414 - Info	Processing Component: OrganizationSettings
+2025-06-30 03:18:38.414 - Info	Processing Component: optionsets
+2025-06-30 03:18:38.415 - Info	Processing Component: CustomControls
+2025-06-30 03:18:38.421 - Info	 - NB.CustomGrid
+2025-06-30 03:18:38.425 - Info	Processing Component: SolutionPluginAssemblies
+2025-06-30 03:18:38.426 - Info	Processing Component: EntityDataProviders
+2025-06-30 03:18:38.430 - Info	Processing Sharded Component Files
+2025-06-30 03:18:38.527 - Info	
+Unmanaged Pack complete.
+

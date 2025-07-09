@@ -1,0 +1,2 @@
+C:\Users\pakrishn\Downloads\PCF-EditableTable\CustomTableGrid\obj\PowerAppsToolsTemp_nb\obj\Debug\PowerAppsToolsTemp_nb.cdsproj.AssemblyReference.cache
+C:\Users\pakrishn\Downloads\PCF-EditableTable\CustomTableGrid\obj\PowerAppsToolsTemp_nb\obj\Debug\PowerAppsToolsTemp_nb.cdsproj.CoreCompileInputs.cache
