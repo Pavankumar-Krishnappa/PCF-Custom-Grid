@@ -1,13 +1,11 @@
-# Editable Table
+Customized Grid 
+Grid  Feature:
 
-This control converts the dataset into an editable table.
-
-![EGtoET](https://user-images.githubusercontent.com/108401084/236837282-2d099412-0dc0-4301-92ba-a925812cfe4a.png)
-
-Control has the following functionalities: 
-- **"+ New" button** - Adds a new row on top of the table where the user can fill in data and click "Save" to create the record.
-- **"Refresh" button** - Refreshes the table.
-- **"Save" button** - Creates records for new rows and updates records for changed existing rows.
-- **"Delete" button** - Deletes selected records.
-
-![newButton](https://user-images.githubusercontent.com/108401084/236836468-57acaae7-fc5d-453d-b54b-6e5b089b5764.png)
+New , Save Delee button from the commend bar will be disable based on the status field 
+dropdown column for Lookup reference.
+allow user to enter Invoice Pay amount 
+validate balance invoice and pay amount it will not allow if payamount > balane amount
+validate blank field entry
+lock he fields once it saved
+duplicate invoice cant be added once it got entry  
+in sub grid where Invoice is insert only if the based on the Status filed then only invoice can add in subgrid
